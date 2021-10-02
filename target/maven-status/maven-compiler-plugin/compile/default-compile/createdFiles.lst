@@ -1,0 +1,10 @@
+co\deivisjoro\api19\utilidades\Mensaje.class
+co\deivisjoro\api19\modelo\dao\EstudianteDAO.class
+co\deivisjoro\api19\recursos\UsuarioRecurso.class
+co\deivisjoro\api19\modelo\entidades\Estudiante.class
+co\deivisjoro\api19\bd\Conexion.class
+co\deivisjoro\api19\recursos\EstudianteRecurso.class
+co\deivisjoro\api19\recursos\filtros\Autorizacion.class
+co\deivisjoro\api19\Aplicacion.class
+co\deivisjoro\api19\modelo\dao\UsuarioDAO.class
+co\deivisjoro\api19\modelo\entidades\Usuario.class
